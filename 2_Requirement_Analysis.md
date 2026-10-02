@@ -1,29 +1,96 @@
-Requirement Analysis – Markdown Words
 
-Requirement – A need or expectation that a system must satisfy.
+# Requirement Analysis
 
-Requirement Analysis – Identifying, understanding, and documenting user needs.
+## Introduction
 
-Functional Requirements – Describe what the system should do.
+Requirement analysis is the process of identifying, understanding, documenting, and managing the needs and expectations of users and stakeholders for a project.
 
-Non-Functional Requirements – Describe quality aspects such as performance, security, and usability.
+## Objectives
 
-User Requirements – Needs and expectations of the users.
+- Understand the needs of the users
+- Identify project requirements
+- Define the scope of the project
+- Avoid misunderstandings
+- Provide a clear direction for development
 
-System Requirements – Detailed technical requirements of the system.
+## Types of Requirements
 
-Stakeholder – A person or group affected by the system.
+### 1. Functional Requirements
 
-Requirement Gathering – Collecting requirements from users and stakeholders.
+Functional requirements describe what the system should do.
 
-Requirement Documentation – Recording requirements clearly and systematically.
+**Examples:**
+- User registration and login
+- Searching for information
+- Adding and updating data
+- Generating reports
+- Sending notifications
 
-Prioritization – Ranking requirements based on importance.
+### 2. Non-Functional Requirements
 
-Validation – Checking whether requirements are correct and complete.
+Non-functional requirements describe how the system should perform.
 
-Feasibility – Determining whether the requirements can realistically be implemented.
+**Examples:**
+- Performance
+- Security
+- Reliability
+- Usability
+- Scalability
+- Availability
 
-Scope – Defines what is included and excluded from the project.
+## Requirement Gathering
 
-Constraints – Limitations such as time, cost, technology, or resources.
+Requirements can be collected using different methods:
+
+- Interviews
+- Surveys
+- Questionnaires
+- Observation
+- Workshops
+- Brainstorming
+- Document analysis
+
+## Requirement Analysis Process
+
+1. **Requirement Gathering**
+2. **Requirement Identification**
+3. **Requirement Classification**
+4. **Requirement Prioritization**
+5. **Requirement Validation**
+6. **Requirement Documentation**
+
+## Requirement Prioritization
+
+Requirements can be prioritized based on their importance and impact.
+
+- **High Priority** – Essential requirements
+- **Medium Priority** – Important but not critical
+- **Low Priority** – Optional requirements
+
+## Requirement Validation
+
+Validation ensures that requirements are:
+
+- Clear
+- Complete
+- Consistent
+- Feasible
+- Testable
+- Relevant
+
+## Requirement Documentation
+
+All identified requirements should be properly documented so that developers, testers, and stakeholders have a common understanding of the project.
+
+## Benefits
+
+- Reduces project misunderstandings
+- Improves communication
+- Defines clear project scope
+- Reduces development errors
+- Helps in project planning
+- Improves customer satisfaction
+
+## Conclusion
+
+Requirement analysis is an important stage of project development. It helps understand user needs, define project requirements, and create a clear foundation for successful project implementation.
